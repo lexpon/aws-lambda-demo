@@ -1,0 +1,3 @@
+# aws-lambda-demo
+
+Playground for me to find out how Lambdas work...
